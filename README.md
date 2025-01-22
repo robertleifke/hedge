@@ -1,6 +1,14 @@
-# Interface
+# Send
 
-A lightweight interface that interacts with Numo smart contracts.
+*Send money anywhere, in any currency, with ease.*
+
+## Overview 
+
+A simple MVP that sends money in any currency (e.g. USD sender to EUR recipient) to anyone using crypto rails. 
+
+## Routing 
+
+The app routes through Uniswap and Numo **USDC/EUROC** pools. 
 
 ## Packages 📦
 

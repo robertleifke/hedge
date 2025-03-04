@@ -1,14 +1,14 @@
-# Send
+# Hedge
 
-*Send money anywhere, in any currency, with ease.*
+*Hedge any currency, anywhere.*
 
 ## Overview 
 
-A simple MVP that sends money in any currency (e.g. USD sender to EUR recipient) to anyone using crypto rails. 
+A simple MVP that enables anyone to hedge their FX exposure.  
 
 ## Routing 
 
-The app routes through Uniswap and Numo **USDC/EUROC** pools. 
+The app routes through Numo **USDC/EUROC** pools on Base. 
 
 ## Packages 📦
 
